@@ -30,7 +30,7 @@ main {
 }
 
 #mainLeft {
-  border-right: 1px solid lightgray;
+  border-right: 1px solid rgb(0, 0, 0);
 }
 
 header {
@@ -52,7 +52,7 @@ p {
 
 hr {
   border: none;
-  background-color: lightgray;
+  background-color: rgb(0, 0, 0);
   height: 1px;
 }
 
