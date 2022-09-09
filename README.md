@@ -1,2 +1,3 @@
 # resume.private
-sample personal resume
+My Sample Printable Resume 
+Unofficial One
